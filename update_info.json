@@ -1,8 +1,8 @@
 ﻿{
-  "latest_version": "202603060451",
+  "latest_version": "202603060508",
   "release_date": "2026-03-06",
   "download_url": "https://github.com/halconlabsCOM/HalconGestion/raw/main/HalconPOS-1.0-SNAPSHOT.jar",
   "release_notes": "Automated release update.",
-  "checksum": "5f03d8fbf2c47b3b9adf3887e749f414146795427dbcf590157ef1442d350a30",
+  "checksum": "64f81ec37a4bb66b3be97582942b7bdef0d6a9dfe780088746a40d5a27fce092",
   "critical": false
 }
